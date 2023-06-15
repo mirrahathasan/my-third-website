@@ -1,0 +1,10 @@
+.menu{
+    height: 100vh;
+    background-color: green;
+}
+.menu > div > img{
+    border-radius: 100%;
+    border: 5px solid aqua;
+    height: 300px;
+    width: 300px;
+}
